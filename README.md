@@ -12,8 +12,8 @@
 </a>
 -->
 
-- Blog : <a href="https://dlemrcnd.tistory.com/" dlemrcnd.tistory.com />
-- Email : <a href="jae2021@gmail.com">
+- Blog : <a href="https://dlemrcnd.tistory.com/"> dlemrcnd.tistory.com </a>
+- Email : <a href="jae2021@gmail.com"> jae2021@gmail.com</a>
 
 ## Tech Stack
 # Techs that I've used at least once
