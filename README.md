@@ -12,7 +12,7 @@
 </a>
 -->
 
-- Blog : <a href="https://dlemrcnd.tistory.com/">
+- Blog : <a href="https://dlemrcnd.tistory.com/" dlemrcnd.tistory.com />
 - Email : <a href="jae2021@gmail.com">
 
 ## Tech Stack
