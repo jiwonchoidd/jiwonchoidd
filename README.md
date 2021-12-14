@@ -1,5 +1,5 @@
 <!--방문자 수, 깃허브 팔로워 수-->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansohxxn&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiwonchoidd&count_bg=%23B63C3C&title_bg=%237A7343&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Contact
 
@@ -12,8 +12,8 @@
 </a>
 -->
 
-- 블로그 : <dlemrcnd.tistory.com>
-- 이메일 : <jae2021@gmail.com>
+- Blog : <dlemrcnd.tistory.com>
+- Email : <jae2021@gmail.com>
 
 ## Study
 
