@@ -1,4 +1,4 @@
-# jiwonchoidd
+# ✏ jiwonchoidd ✏
 ## 🎈 Tech Stack 🎈
 ### 📂 Techs that I've used at least once
 
