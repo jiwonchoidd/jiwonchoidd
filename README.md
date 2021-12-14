@@ -11,6 +11,6 @@
 ### - 📂 Email : <a href="jae2021@gmail.com"> jae2021@gmail.com</a>
 
 <!--방문자 수, 깃허브 팔로워 수-->
-<img src="https://media.giphy.com/media/JIEBRZDZ6pWN2/giphy.gif" alt="drawing" width="150"/>
+<img src="https://media.giphy.com/media/JIEBRZDZ6pWN2/giphy.gif" alt="drawing" width="10"/>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiwonchoidd&count_bg=%23929292&title_bg=%23666666&icon=github.svg&icon_color=%23FFF0F0&title=hits&edge_flat=false"/></a>
