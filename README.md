@@ -8,5 +8,5 @@
 ###  📂 Blog : <a href="https://dlemrcnd.tistory.com/"> dlemrcnd.tistory.com </a>
 ###  📂 Email : <a href="jae2021@gmail.com"> jae2021@gmail.com</a>
 
-## 🌐 Live Demo
-[![Live Demo](https://img.shields.io/badge/OpenGL-Live_Demo-success)](https://jiwonchoidd.github.io/GLProject)
+## OpenGL 코드를 Emscripten을 사용하여 WebGL로 변환
+<a href="jiwonchoidd.github.io/GLProject"> jiwonchoidd.github.io/GLProject</a>
